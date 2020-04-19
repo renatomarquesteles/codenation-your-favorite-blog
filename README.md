@@ -8,6 +8,9 @@
 
 ### Preview
 
+> **Live Demo:**
+> 👉 [Your Favorite Blog](https://renatomarquesteles.github.io/codenation-your-favorite-blog/)
+
 <img src="./.github/preview.png" alt="Preview" />
 
 ### Instalação
